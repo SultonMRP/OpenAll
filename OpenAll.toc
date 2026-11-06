@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: OpenAll
+## Notes: Open all your mail
+## Author: Kemayo
+## Version: 1
+## SavedVariables: OpenAllDB
+## X-Category: Mail
+
+OpenAll.lua
